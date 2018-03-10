@@ -29,6 +29,7 @@
 		96884C7B20541EBE00580307 /* Scanf.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Scanf.h; sourceTree = "<group>"; };
 		96884C7C20541EBE00580307 /* Scanf.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Scanf.c; sourceTree = "<group>"; };
 		96884C7E20542F1600580307 /* 绪论.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; path = "绪论.rtf"; sourceTree = "<group>"; };
+		96884C80205431A600580307 /* 绪论题目.rtfd */ = {isa = PBXFileReference; lastKnownFileType = wrapper.rtfd; path = "绪论题目.rtfd"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +80,7 @@
 		96884C7920541E8D00580307 /* 课后练习实现 */ = {
 			isa = PBXGroup;
 			children = (
+				96884C7F2054318F00580307 /* 绪论 */,
 			);
 			path = "课后练习实现";
 			sourceTree = "<group>";
@@ -89,6 +91,14 @@
 				96884C7B20541EBE00580307 /* Scanf.h */,
 				96884C7C20541EBE00580307 /* Scanf.c */,
 				96884C7E20542F1600580307 /* 绪论.rtf */,
+			);
+			path = "绪论";
+			sourceTree = "<group>";
+		};
+		96884C7F2054318F00580307 /* 绪论 */ = {
+			isa = PBXGroup;
+			children = (
+				96884C80205431A600580307 /* 绪论题目.rtfd */,
 			);
 			path = "绪论";
 			sourceTree = "<group>";
